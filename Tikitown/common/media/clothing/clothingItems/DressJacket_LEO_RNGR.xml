@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<clothingItem>
+    <m_GUID>02fd08ef-77bc-4153-b0f3-d5363ab48830</m_GUID>
+    <textureChoices>Clothes\Jacket\DressJacket_LEO_RNGR</textureChoices>
+	<m_MaleModel>skinned\clothes\bob_jacket</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\kate_jacket</m_FemaleModel>
+  
+    <m_MasksFolder>media/textures/Clothes/Jacket/Masks_CoatArmy</m_MasksFolder>
+    <m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks_CoatArmy</m_UnderlayMasksFolder>
+    <m_AttachBone />
+</clothingItem>

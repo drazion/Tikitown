@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>clothes\M_RTF_Armor</m_MaleModel>
+	<m_FemaleModel>clothes\F_RTF_Armor</m_FemaleModel>
+	<m_GUID>db430682-73ba-4919-9ff6-75db433e3036</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>Clothes\Armor_LEO_Ranger</textureChoices>
+</clothingItem>

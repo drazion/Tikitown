@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>Clothes\m_LaserTagChestHarness</m_MaleModel>
+	<m_FemaleModel>Clothes\f_LaserTagChestHarness</m_FemaleModel>
+	<m_GUID>27c91abc-2a76-47bb-8d73-d5da8de331e8</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>Clothes\LaserTag_Chest_Harness_Red</textureChoices>	
+	<textureChoices>Clothes\LaserTag_Chest_Harness_Blue</textureChoices>
+</clothingItem>

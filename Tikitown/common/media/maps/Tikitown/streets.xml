@@ -1,0 +1,718 @@
+<streets version="1">
+    <street name="Bluegrass Bend" width="5">
+        <points>
+            <point x="7347.5" y="6981.5"/>
+            <point x="7347.5" y="7068.0"/>
+            <point x="7368.5" y="7090.5"/>
+        </points>
+    </street>
+    <street name="Holler Ridge Rd" width="5">
+        <points>
+            <point x="7422.5" y="6981.5"/>
+            <point x="7422.5" y="7017.0"/>
+            <point x="7422.5" y="7052.5"/>
+        </points>
+    </street>
+    <street name="Boone Trace Rd" width="5">
+        <points>
+            <point x="7472.5" y="7052.5"/>
+            <point x="7472.5" y="7003.5"/>
+            <point x="7463.0" y="6984.0"/>
+            <point x="7454.5" y="6979.0"/>
+            <point x="7315.0" y="6979.0"/>
+            <point x="7314.5" y="7068.0"/>
+            <point x="7321.0" y="7082.5"/>
+            <point x="7340.0" y="7093.0"/>
+            <point x="7383.5" y="7093.0"/>
+        </points>
+    </street>
+    <street name="Shaker Way" width="5">
+        <points>
+            <point x="7472.5" y="7060.5"/>
+            <point x="7472.5" y="7112.5"/>
+        </points>
+    </street>
+    <street name="Henry Clay Blvd" width="7">
+        <points>
+            <point x="7517.0" y="7056.5"/>
+            <point x="7422.0" y="7056.5"/>
+            <point x="7399.5" y="7067.5"/>
+            <point x="7387.0" y="7091.5"/>
+            <point x="7387.0" y="7399.5"/>
+            <point x="7357.0" y="7429.5"/>
+            <point x="7335.5" y="7429.0"/>
+            <point x="7330.5" y="7434.0"/>
+        </points>
+    </street>
+    <street name="Ashland Pike" width="8">
+        <points>
+            <point x="7521.5" y="7061.0"/>
+            <point x="7523.0" y="7339.0"/>
+        </points>
+    </street>
+    <street name="Riverport Way" width="5">
+        <points>
+            <point x="7573.5" y="7105.0"/>
+            <point x="7772.5" y="7105.0"/>
+        </points>
+    </street>
+    <street name="Lexington Ave" width="6">
+        <points>
+            <point x="7314.5" y="6976.5"/>
+            <point x="7314.5" y="6968.0"/>
+            <point x="6949.0" y="6967.5"/>
+        </points>
+    </street>
+    <street name="Toucan Blvd" width="5">
+        <points>
+            <point x="7078.5" y="7295.0"/>
+            <point x="7195.5" y="7295.0"/>
+        </points>
+    </street>
+    <street name="Cumberland Trace" width="6">
+        <points>
+            <point x="6741.0" y="7260.0"/>
+            <point x="6905.0" y="7260.0"/>
+            <point x="6947.0" y="7218.0"/>
+            <point x="6978.0" y="7218.0"/>
+            <point x="6985.5" y="7225.0"/>
+            <point x="7048.5" y="7225.0"/>
+            <point x="7074.0" y="7249.5"/>
+        </points>
+    </street>
+    <street name="Ironworks Rd" width="8">
+        <points>
+            <point x="7384.5" y="7407.0"/>
+            <point x="7421.0" y="7442.0"/>
+            <point x="7437.5" y="7450.5"/>
+            <point x="7621.5" y="7450.5"/>
+            <point x="7630.0" y="7446.0"/>
+            <point x="7634.5" y="7439.5"/>
+            <point x="7635.0" y="7219.5"/>
+        </points>
+    </street>
+    <street name="Thomas Ave" width="8">
+        <points>
+            <point x="7200.0" y="7254.0"/>
+            <point x="7200.0" y="7734.0"/>
+        </points>
+    </street>
+    <street name="Burnside Way" width="5">
+        <points>
+            <point x="7225.0" y="7255.5"/>
+            <point x="7225.0" y="7337.5"/>
+        </points>
+    </street>
+    <street name="McClellan Way" width="5">
+        <points>
+            <point x="7265.5" y="7255.5"/>
+            <point x="7265.5" y="7338.5"/>
+        </points>
+    </street>
+    <street name="Scott Street" width="5">
+        <points>
+            <point x="7269.5" y="7278.0"/>
+            <point x="7315.0" y="7278.0"/>
+        </points>
+    </street>
+    <street name="David Ireland Street" width="8">
+        <points>
+            <point x="7074.0" y="7359.5"/>
+            <point x="7074.0" y="7252.0"/>
+            <point x="7315.5" y="7252.0"/>
+        </points>
+    </street>
+    <street name="Cox Street" width="5">
+        <points>
+            <point x="7321.5" y="7236.5"/>
+            <point x="7321.5" y="7338.0"/>
+        </points>
+    </street>
+    <street name="Gibbon Street" width="5">
+        <points>
+            <point x="7361.0" y="7234.0"/>
+            <point x="7361.0" y="7337.5"/>
+        </points>
+    </street>
+    <street name="James Andrews Street" width="5">
+        <points>
+            <point x="7519.0" y="7230.0"/>
+            <point x="7390.0" y="7230.0"/>
+        </points>
+    </street>
+    <street name="Rosecrans Street" width="5">
+        <points>
+            <point x="7383.5" y="7230.0"/>
+            <point x="7286.5" y="7230.0"/>
+            <point x="7286.5" y="7248.0"/>
+        </points>
+    </street>
+    <street name="Sherman Street" width="6">
+        <points>
+            <point x="7070.0" y="7271.0"/>
+            <point x="6954.0" y="7271.0"/>
+            <point x="6950.5" y="7275.5"/>
+            <point x="6951.0" y="7536.0"/>
+        </points>
+    </street>
+    <street name="Meagher Street" width="5">
+        <points>
+            <point x="6953.5" y="7325.0"/>
+            <point x="7070.0" y="7325.0"/>
+        </points>
+    </street>
+    <street name="Willich Way" width="5">
+        <points>
+            <point x="6953.0" y="7378.0"/>
+            <point x="7053.5" y="7378.0"/>
+        </points>
+    </street>
+    <street name="Barlow Way" width="5">
+        <points>
+            <point x="7095.5" y="7378.5"/>
+            <point x="7196.0" y="7378.5"/>
+        </points>
+    </street>
+    <street name="Hunt Street" width="5">
+        <points>
+            <point x="7073.5" y="7399.0"/>
+            <point x="7073.5" y="7579.5"/>
+        </points>
+    </street>
+    <street name="Ingalls Street" width="5">
+        <points>
+            <point x="6954.0" y="7484.0"/>
+            <point x="7069.0" y="7484.0"/>
+        </points>
+    </street>
+    <street name="Gibson Street" width="5">
+        <points>
+            <point x="7078.0" y="7484.0"/>
+            <point x="7197.5" y="7484.0"/>
+        </points>
+    </street>
+    <street name="Meade Street" width="5">
+        <points>
+            <point x="7205.0" y="7530.5"/>
+            <point x="7349.0" y="7530.5"/>
+            <point x="7349.0" y="7486.5"/>
+            <point x="7326.5" y="7462.0"/>
+            <point x="7326.5" y="7353.0"/>
+            <point x="7322.5" y="7346.0"/>
+        </points>
+    </street>
+    <street name="Carr Road" width="6">
+        <points>
+            <point x="7196.0" y="7342.0"/>
+            <point x="7383.5" y="7342.0"/>
+        </points>
+    </street>
+    <street name="Meigs Way" width="6">
+        <points>
+            <point x="7390.5" y="7342.0"/>
+            <point x="7541.0" y="7342.0"/>
+        </points>
+    </street>
+    <street name="Ingalls Street" width="5">
+        <points>
+            <point x="7390.5" y="7170.5"/>
+            <point x="7399.5" y="7165.5"/>
+            <point x="7518.5" y="7165.5"/>
+        </points>
+    </street>
+    <street name="McCallum Road" width="8">
+        <points>
+            <point x="7525.5" y="7215.0"/>
+            <point x="7766.0" y="7215.0"/>
+            <point x="7770.5" y="7212.0"/>
+            <point x="7771.0" y="7118.0"/>
+        </points>
+    </street>
+    <street name="Totten Street" width="5">
+        <points>
+            <point x="7525.5" y="7276.0"/>
+            <point x="7624.0" y="7276.0"/>
+            <point x="7631.5" y="7270.0"/>
+        </points>
+    </street>
+    <street name="Haupt Street" width="5">
+        <points>
+            <point x="7596.0" y="7211.0"/>
+            <point x="7604.5" y="7203.0"/>
+            <point x="7604.5" y="7119.5"/>
+        </points>
+    </street>
+    <street name="Wilson Boulevard" width="5">
+        <points>
+            <point x="7154.0" y="6971.0"/>
+            <point x="7154.0" y="7248.5"/>
+        </points>
+    </street>
+    <street name="Gregg Street" width="6">
+        <points>
+            <point x="6952.0" y="6970.5"/>
+            <point x="6952.0" y="7063.5"/>
+            <point x="6954.5" y="7066.0"/>
+            <point x="7151.5" y="7066.0"/>
+        </points>
+    </street>
+    <street name="Hammond Road" width="5">
+        <points>
+            <point x="6951.0" y="7543.5"/>
+            <point x="6949.5" y="7737.0"/>
+            <point x="6998.5" y="7737.0"/>
+        </points>
+    </street>
+    <street name="Barnes Way" width="9">
+        <points>
+            <point x="6935.0" y="7674.5"/>
+            <point x="6999.0" y="7674.5"/>
+        </points>
+    </street>
+    <street name="Letterman Road" width="6">
+        <points>
+            <point x="7006.5" y="7737.0"/>
+            <point x="7198.0" y="7737.0"/>
+            <point x="7199.5" y="7735.5"/>
+            <point x="7198.0" y="7737.0"/>
+        </points>
+    </street>
+    <street name="Kilpatrick Street" width="8">
+        <points>
+            <point x="7499.0" y="7553.0"/>
+            <point x="7695.5" y="7553.0"/>
+            <point x="7712.0" y="7537.5"/>
+            <point x="7712.0" y="7524.0"/>
+            <point x="7692.5" y="7505.0"/>
+            <point x="7634.0" y="7505.0"/>
+            <point x="7630.0" y="7501.5"/>
+            <point x="7630.0" y="7451.0"/>
+        </points>
+    </street>
+    <street name="Pleasonton Road" width="8">
+        <points>
+            <point x="7495.0" y="7613.5"/>
+            <point x="7494.5" y="7384.0"/>
+            <point x="7631.0" y="7384.0"/>
+        </points>
+    </street>
+    <street name="Grierson Way" width="5">
+        <points>
+            <point x="7472.0" y="7444.5"/>
+            <point x="7472.0" y="7357.0"/>
+        </points>
+    </street>
+    <street name="Merrit Street" width="5">
+        <points>
+            <point x="7426.0" y="7364.0"/>
+            <point x="7469.0" y="7364.0"/>
+        </points>
+    </street>
+    <street name="Buford Trace" width="5">
+        <points>
+            <point x="7228.5" y="7346.0"/>
+            <point x="7289.0" y="7408.0"/>
+            <point x="7297.0" y="7409.0"/>
+            <point x="7323.0" y="7433.5"/>
+        </points>
+    </street>
+    <street name="Shaw Street" width="5">
+        <points>
+            <point x="7205.0" y="7448.5"/>
+            <point x="7252.5" y="7447.0"/>
+            <point x="7248.5" y="7431.5"/>
+            <point x="7277.5" y="7402.5"/>
+        </points>
+    </street>
+    <street name="Ellsworth Street" width="5">
+        <points>
+            <point x="7080.5" y="7617.0"/>
+            <point x="7196.0" y="7617.0"/>
+        </points>
+    </street>
+    <street name="Rose Street" width="5">
+        <points>
+            <point x="7075.5" y="7590.5"/>
+            <point x="7075.5" y="7734.0"/>
+        </points>
+    </street>
+    <street name="Baker Street" width="5">
+        <points>
+            <point x="7008.5" y="7633.5"/>
+            <point x="7126.5" y="7633.5"/>
+            <point x="7126.5" y="7591.0"/>
+        </points>
+    </street>
+    <street name="Ellet Way" width="5">
+        <points>
+            <point x="7008.5" y="7686.0"/>
+            <point x="7071.5" y="7686.0"/>
+        </points>
+    </street>
+    <street name="Lander Road" width="6">
+        <points>
+            <point x="7718.0" y="7219.0"/>
+            <point x="7718.0" y="7297.5"/>
+            <point x="7721.5" y="7301.0"/>
+            <point x="7731.5" y="7301.0"/>
+        </points>
+    </street>
+    <street name="Riverside Road" width="8">
+        <points>
+            <point x="7007.0" y="7585.0"/>
+            <point x="7048.0" y="7585.5"/>
+            <point x="7450.0" y="7585.0"/>
+            <point x="7470.5" y="7595.0"/>
+            <point x="7484.0" y="7606.5"/>
+            <point x="7492.5" y="7622.0"/>
+            <point x="7495.0" y="7628.5"/>
+            <point x="7495.0" y="7756.5"/>
+            <point x="7504.0" y="7775.5"/>
+            <point x="7514.0" y="7794.5"/>
+            <point x="7520.5" y="7801.5"/>
+        </points>
+    </street>
+    <street name="Devin Ln" width="5">
+        <points>
+            <point x="7156.5" y="7185.0"/>
+            <point x="7182.0" y="7185.0"/>
+            <point x="7189.0" y="7179.0"/>
+            <point x="7189.0" y="7134.5"/>
+            <point x="7159.0" y="7104.0"/>
+            <point x="7156.5" y="7104.0"/>
+        </points>
+    </street>
+    <street name="Greeley St" width="5">
+        <points>
+            <point x="7383.0" y="7148.0"/>
+            <point x="7344.5" y="7148.0"/>
+            <point x="7342.5" y="7145.5"/>
+            <point x="7338.5" y="7142.0"/>
+            <point x="7330.5" y="7140.5"/>
+        </points>
+    </street>
+    <street name="Todd Loop" width="5">
+        <points>
+            <point x="7252.0" y="7125.0"/>
+            <point x="7295.5" y="7125.0"/>
+            <point x="7306.5" y="7118.5"/>
+            <point x="7314.5" y="7119.0"/>
+            <point x="7328.0" y="7127.0"/>
+            <point x="7327.0" y="7169.5"/>
+            <point x="7306.5" y="7160.0"/>
+            <point x="7254.0" y="7160.0"/>
+        </points>
+    </street>
+    <street name="Howe St" width="5">
+        <points>
+            <point x="7248.5" y="7117.5"/>
+            <point x="7248.5" y="7170.0"/>
+        </points>
+    </street>
+    <street name="Stowe St" width="5">
+        <points>
+            <point x="7219.0" y="7123.5"/>
+            <point x="7220.5" y="7174.0"/>
+        </points>
+    </street>
+    <street name="Adams St" width="5">
+        <points>
+            <point x="7222.5" y="7138.5"/>
+            <point x="7271.0" y="7143.5"/>
+        </points>
+    </street>
+    <street name="Sheriff Loop" width="5">
+        <points>
+            <point x="7369.5" y="7581.5"/>
+            <point x="7369.5" y="7532.0"/>
+            <point x="7374.0" y="7525.5"/>
+            <point x="7398.5" y="7525.5"/>
+            <point x="7406.5" y="7521.5"/>
+            <point x="7429.5" y="7522.0"/>
+            <point x="7430.5" y="7554.0"/>
+            <point x="7415.5" y="7559.5"/>
+            <point x="7415.5" y="7582.0"/>
+        </points>
+    </street>
+    <street name="Irish Street" width="5">
+        <points>
+            <point x="7080.0" y="7431.0"/>
+            <point x="7197.0" y="7431.0"/>
+        </points>
+    </street>
+    <street name="Brady Way" width="5">
+        <points>
+            <point x="7104.0" y="7433.5"/>
+            <point x="7104.0" y="7481.0"/>
+        </points>
+    </street>
+    <street name="Gardner Way" width="5">
+        <points>
+            <point x="7130.5" y="7434.0"/>
+            <point x="7130.5" y="7481.0"/>
+        </points>
+    </street>
+    <street name="Russell St" width="5">
+        <points>
+            <point x="7121.5" y="7382.5"/>
+            <point x="7121.5" y="7428.0"/>
+        </points>
+    </street>
+    <street name="Knox Loop" width="5">
+        <points>
+            <point x="6985.5" y="7381.5"/>
+            <point x="6985.5" y="7406.0"/>
+            <point x="7011.0" y="7406.5"/>
+            <point x="7011.5" y="7446.0"/>
+            <point x="6954.0" y="7446.0"/>
+        </points>
+    </street>
+    <street name="McDowell Rd" width="5">
+        <points>
+            <point x="7203.0" y="7657.5"/>
+            <point x="7307.0" y="7657.5"/>
+        </points>
+    </street>
+    <street name="Short Street" width="5">
+        <points>
+            <point x="7234.5" y="7589.5"/>
+            <point x="7234.5" y="7654.0"/>
+        </points>
+    </street>
+    <street name="Ivy Hill Rd" width="6">
+        <points>
+            <point x="7075.0" y="7740.0"/>
+            <point x="7075.0" y="7779.0"/>
+            <point x="7160.5" y="7779.0"/>
+            <point x="7197.0" y="7743.0"/>
+            <point x="7197.0" y="7740.0"/>
+        </points>
+    </street>
+    <street name="KY-163" width="8">
+        <points>
+            <point x="6737.5" y="6900.0"/>
+            <point x="6737.0" y="7504.0"/>
+            <point x="6744.0" y="7519.0"/>
+            <point x="6757.0" y="7532.0"/>
+            <point x="6770.5" y="7539.5"/>
+            <point x="6974.0" y="7540.0"/>
+            <point x="6988.5" y="7547.0"/>
+            <point x="6997.0" y="7556.0"/>
+            <point x="7003.0" y="7568.5"/>
+            <point x="7003.0" y="7584.0"/>
+            <point x="7003.0" y="7801.0"/>
+        </points>
+    </street>
+    <street name="River Walk Road" width="6">
+        <points>
+            <point x="7521.0" y="6900.0"/>
+            <point x="7520.5" y="7054.0"/>
+            <point x="7580.0" y="7115.0"/>
+            <point x="7800.0" y="7115.0"/>
+        </points>
+    </street>
+    <street name="Wright Ave" width="5">
+        <points>
+            <point x="7513.0" y="7600.0"/>
+            <point x="7513.0" y="7560.5"/>
+        </points>
+    </street>
+    <street name="Rich Ave" width="5">
+        <points>
+            <point x="7529.0" y="7599.5"/>
+            <point x="7529.0" y="7564.5"/>
+        </points>
+    </street>
+    <street name="Cardinal Street" width="5">
+        <points>
+            <point x="7059.0" y="6998.5"/>
+            <point x="7150.5" y="6998.5"/>
+        </points>
+    </street>
+    <street name="Oriole Street" width="5">
+        <points>
+            <point x="7150.5" y="7034.5"/>
+            <point x="7061.0" y="7034.5"/>
+        </points>
+    </street>
+    <street name="Jay Street" width="5">
+        <points>
+            <point x="7057.0" y="6971.0"/>
+            <point x="7057.0" y="7062.5"/>
+        </points>
+    </street>
+    <street name="Gray Ave" width="5">
+        <points>
+            <point x="7513.0" y="7605.5"/>
+            <point x="7513.0" y="7621.0"/>
+            <point x="7513.0" y="7633.5"/>
+        </points>
+    </street>
+    <street name="Artillery Ridge Ave" width="5">
+        <points>
+            <point x="7500.0" y="7602.5"/>
+            <point x="7592.5" y="7602.5"/>
+            <point x="7601.5" y="7596.0"/>
+            <point x="7601.5" y="7455.0"/>
+        </points>
+    </street>
+    <street name="Northwestern Railroad (Muldraugh - Brandenburg)" width="5">
+        <points>
+            <point x="7504.0" y="7800.0"/>
+            <point x="7479.5" y="7775.5"/>
+            <point x="7479.5" y="7374.0"/>
+            <point x="7502.0" y="7352.0"/>
+            <point x="7515.0" y="7352.0"/>
+            <point x="7514.5" y="7213.5"/>
+            <point x="7457.0" y="7213.5"/>
+            <point x="7421.5" y="7180.0"/>
+            <point x="7251.5" y="7179.5"/>
+            <point x="7219.0" y="7211.5"/>
+            <point x="6938.0" y="7211.5"/>
+            <point x="6896.5" y="7253.5"/>
+            <point x="6747.5" y="7253.5"/>
+            <point x="6724.5" y="7231.5"/>
+            <point x="6725.0" y="7013.5"/>
+            <point x="6654.5" y="6943.0"/>
+            <point x="6654.5" y="6928.0"/>
+            <point x="6626.5" y="6900.5"/>
+        </points>
+    </street>
+    <street name="Northwestern Railroad (Muldraugh - Brandenburg)" width="5">
+        <points>
+            <point x="7517.5" y="7352.0"/>
+            <point x="7565.5" y="7352.0"/>
+            <point x="7686.0" y="7232.0"/>
+            <point x="7685.5" y="7188.0"/>
+            <point x="7672.5" y="7186.5"/>
+            <point x="7666.5" y="7181.0"/>
+            <point x="7666.5" y="7123.0"/>
+            <point x="7509.0" y="7122.5"/>
+            <point x="7502.5" y="7127.5"/>
+            <point x="7502.5" y="7179.5"/>
+            <point x="7514.5" y="7193.0"/>
+            <point x="7514.5" y="7211.0"/>
+        </points>
+    </street>
+    <street name="Trail Ridge Rd" width="5">
+        <points>
+            <point x="7640.0" y="7301.0"/>
+            <point x="7715.5" y="7301.0"/>
+        </points>
+    </street>
+    <street name="Howard Rd" width="6">
+        <points>
+            <point x="6741.0" y="7240.0"/>
+            <point x="6749.0" y="7247.0"/>
+            <point x="6880.0" y="7247.0"/>
+        </points>
+    </street>
+    <street name="Spanner St" width="4">
+        <points>
+            <point x="6870.0" y="7243.5"/>
+            <point x="6870.0" y="7194.0"/>
+            <point x="6848.5" y="7194.0"/>
+            <point x="6840.5" y="7194.0"/>
+            <point x="6840.5" y="7175.0"/>
+            <point x="6831.5" y="7175.0"/>
+            <point x="6815.0" y="7190.5"/>
+            <point x="6806.0" y="7190.5"/>
+            <point x="6806.0" y="7244.0"/>
+        </points>
+    </street>
+    <street name="Kelly Rd" width="6">
+        <points>
+            <point x="6740.5" y="7385.0"/>
+            <point x="6788.0" y="7385.0"/>
+            <point x="6843.5" y="7330.0"/>
+            <point x="6874.0" y="7330.0"/>
+            <point x="6890.0" y="7346.0"/>
+            <point x="6947.5" y="7346.0"/>
+        </points>
+    </street>
+    <street name="Gilsa St" width="6">
+        <points>
+            <point x="6811.0" y="7304.5"/>
+            <point x="6811.0" y="7421.5"/>
+            <point x="6806.0" y="7427.0"/>
+            <point x="6806.0" y="7442.0"/>
+            <point x="6837.5" y="7473.0"/>
+            <point x="6860.0" y="7473.0"/>
+            <point x="6892.5" y="7441.0"/>
+            <point x="6947.5" y="7441.0"/>
+        </points>
+    </street>
+    <street name="Burling St" width="5">
+        <points>
+            <point x="6856.0" y="7263.5"/>
+            <point x="6856.0" y="7326.5"/>
+        </points>
+    </street>
+    <street name="Sedgewick Rd" width="6">
+        <points>
+            <point x="7319.0" y="7589.5"/>
+            <point x="7319.0" y="7681.5"/>
+            <point x="7328.5" y="7700.0"/>
+            <point x="7337.5" y="7705.0"/>
+            <point x="7360.5" y="7705.0"/>
+            <point x="7489.5" y="7704.5"/>
+        </points>
+    </street>
+    <street name="McDougall Rd" width="8">
+        <points>
+            <point x="7500.0" y="7704.0"/>
+            <point x="7545.0" y="7704.0"/>
+            <point x="7551.5" y="7718.0"/>
+            <point x="7560.0" y="7722.5"/>
+            <point x="7564.0" y="7722.5"/>
+            <point x="7564.0" y="7752.0"/>
+        </points>
+    </street>
+    <street name="Turner Bend" width="5">
+        <points>
+            <point x="6741.0" y="7210.0"/>
+            <point x="6778.5" y="7210.0"/>
+            <point x="6778.5" y="7243.5"/>
+        </points>
+    </street>
+    <street name="Millstone Dr" width="6">
+        <points>
+            <point x="6740.5" y="7335.0"/>
+            <point x="6808.0" y="7335.0"/>
+        </points>
+    </street>
+    <street name="Sycamore St" width="8">
+        <points>
+            <point x="6945.0" y="7722.0"/>
+            <point x="6865.0" y="7722.0"/>
+        </points>
+    </street>
+    <street name="Wagon Trail Rd" width="6">
+        <points>
+            <point x="6862.0" y="7800.0"/>
+            <point x="6862.0" y="7610.5"/>
+            <point x="6830.0" y="7578.5"/>
+            <point x="6830.0" y="7544.0"/>
+        </points>
+    </street>
+    <street name="Fall Hill Dr" width="8">
+        <points>
+            <point x="7204.0" y="7707.0"/>
+            <point x="7338.0" y="7707.0"/>
+        </points>
+    </street>
+    <street name="Crimber St" width="8">
+        <points>
+            <point x="6901.5" y="7717.0"/>
+            <point x="6901.0" y="7543.5"/>
+        </points>
+    </street>
+    <street name="Weinzierl Rd" width="8">
+        <points>
+            <point x="6737.0" y="7514.0"/>
+            <point x="6737.0" y="7694.5"/>
+            <point x="6765.0" y="7722.5"/>
+            <point x="6859.0" y="7722.5"/>
+        </points>
+    </street>
+</streets>

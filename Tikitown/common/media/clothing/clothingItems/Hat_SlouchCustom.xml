@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>clothes\m_slouchhat</m_MaleModel>
+	<m_FemaleModel>clothes\f_slouchhat</m_FemaleModel>
+	<m_GUID>045b077a-3a97-42d5-b4b8-925f0312e400</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>default</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>Clothes\Hat_BaseSlouch</textureChoices>
+	<textureChoices>Clothes\Hat_BlueSlouch</textureChoices>
+	<textureChoices>Clothes\Hat_TanSlouch</textureChoices>
+	<textureChoices>Clothes\Hat_GraySlouch</textureChoices>
+</clothingItem>

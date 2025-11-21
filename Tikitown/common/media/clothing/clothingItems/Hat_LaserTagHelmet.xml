@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_LaserTagHelmet</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_LaserTagHelmet</m_FemaleModel>
+	<m_GUID>59030be2-0bb5-47a3-8856-8d6ef31e23e9</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>Group01</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>Clothes\LaserTag_Helmet_Red</textureChoices>	
+	<textureChoices>Clothes\LaserTag_Helmet_Blue</textureChoices>
+</clothingItem>

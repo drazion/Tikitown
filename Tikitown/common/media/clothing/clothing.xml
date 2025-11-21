@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="utf-8"?>
+<outfitManager>
+	<!--https://github.com/FWolfe/Zomboid-Modding-Guide/blob/master/clothing/README.md-->
+	<m_MaleOutfits>
+		<m_Name>TenchiMannequin</m_Name>
+		<m_Guid>6d217241-8125-40b8-9821-a3dd29ecb4c5</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<!--Tenchi Pants-->
+		<m_items>
+			<itemGUID>0a5c1c3a-cf16-4791-aa48-5313d928a042</itemGUID>
+		</m_items>
+		<!--BSSO Holster-->
+		<m_items>
+			<itemGUID>4e838ad9-0c49-4879-b87c-d956529b9894</itemGUID>
+		</m_items>
+		<!--Tenchi Shirt-->
+		<m_items>
+			<itemGUID>845de42b0-dd15-4b73-a335-162acb75648a</itemGUID>
+		</m_items>
+		<!--Tenchi Jacket-->
+		<m_items>
+			<itemGUID>371e966b-c6bc-422b-8993-9b96b89f6b84</itemGUID>
+		</m_items>
+		<!--Black Shoes-->
+		<m_items>
+			<itemGUID>593bea3d-c127-4574-ac1e-2197dc56e486</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	
+	<m_MaleOutfits>
+		<m_Name>TEPZombie</m_Name>
+		<m_Guid>5b52ce9b-a07b-462c-9b06-2a40f6077056</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<!--TEP Pants-->
+		<m_items>
+			<itemGUID>b0476df6-74fd-4fe5-9a55-98e80dd1ec88</itemGUID>
+		</m_items>
+		<!--TEP Shirt-->
+		<m_items>
+			<itemGUID>86040674-aecf-4e60-93b1-7b19be1e8161</itemGUID>
+		</m_items>
+		<!--Black Shoes-->
+		<m_items>
+			<itemGUID>593bea3d-c127-4574-ac1e-2197dc56e486</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	
+	<m_FemaleOutfits>
+		<m_Name>TEPZombie</m_Name>
+		<m_Guid>5b52ce9b-a07b-462c-9b06-2a40f6077056</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<!--TEP Pants-->
+		<m_items>
+			<itemGUID>b0476df6-74fd-4fe5-9a55-98e80dd1ec88</itemGUID>
+		</m_items>
+		<!--TEP Shirt-->
+		<m_items>
+			<itemGUID>86040674-aecf-4e60-93b1-7b19be1e8161</itemGUID>
+		</m_items>
+		<!--Black Shoes-->
+		<m_items>
+			<itemGUID>593bea3d-c127-4574-ac1e-2197dc56e486</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
+	
+	<m_MaleOutfits>
+		<m_Name>MannequinBlackShieldsPD</m_Name>
+		<m_Guid>4d585913-9b02-4536-b0b7-7d38bd651168</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<!--BSSO Pants-->
+		<m_items>
+			<itemGUID>eeffc039-d746-4626-a9db-6c7241242a84</itemGUID>
+		</m_items>
+		<!--BSSO Holster-->
+		<m_items>
+			<itemGUID>4e838ad9-0c49-4879-b87c-d956529b9894</itemGUID>
+		</m_items>
+		<!--BSSO Shirt-->
+		<m_items>
+			<itemGUID>8ef714d0-4c86-46b9-8e52-533e09bc28af</itemGUID>
+		</m_items>
+		<!--BSSO Jacket-->
+		<m_items>
+			<itemGUID>edf8b0c8-40fb-4583-95b0-6a0ce72f5d0c</itemGUID>
+		</m_items>
+		<!--BSSO Hat-->
+		<m_items>
+			<itemGUID>59c3d28d-0000-4a93-b7e9-7cb58605879a</itemGUID>
+		</m_items>
+		<!--Black Shoes-->
+		<m_items>
+			<itemGUID>593bea3d-c127-4574-ac1e-2197dc56e486</itemGUID>
+		</m_items>
+		<!--BSSO Gloves-->
+		<m_items>
+			<itemGUID>b2cc4fbc-b783-4c2e-9827-2d8037143178</itemGUID>
+		</m_items>
+		<!--BSSO Tie-->
+		<m_items>
+			<itemGUID>038a2132-28ed-47b4-82b2-020339d022b0</itemGUID>
+		</m_items>
+		<!--BSSO Shoes-->
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	
+	<!--BSSO Sheriff Black-->
+	<m_MaleOutfits>
+		<m_Name>BSSOSheriffOutfit</m_Name>
+		<m_Guid>2fbccfc2-569e-46e6-9af8-353b1f81d776</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<!--BSSO Vest-->
+		<m_items>
+			<itemGUID>3dae9436-c79a-4622-927a-1951651125e8</itemGUID>
+		</m_items>
+		<!--BSSO Pants-->
+		<m_items>
+			<itemGUID>602bfa4d-afea-46c2-9d4a-cc497e7cd94a</itemGUID>
+		</m_items>
+		<!--BSSO Holster-->
+		<m_items>
+			<itemGUID>4e838ad9-0c49-4879-b87c-d956529b9894</itemGUID>
+		</m_items>
+		<!--BSSO Shirt-->
+		<m_items>
+			<itemGUID>eb5ea746-da59-464f-887e-431f57607771</itemGUID>
+		</m_items>
+		<!--BSSO Jacket-->
+		<m_items>
+			<probability>0.3</probability>
+			<itemGUID>edf8b0c8-40fb-4583-95b0-6a0ce72f5d0c</itemGUID>
+		</m_items>
+		<!--BSSO Hat-->
+		<m_items>
+			<itemGUID>9072a6f8-32d2-43bb-864f-3417b81c2b41</itemGUID>
+		</m_items>
+		<!--Black Shoes-->
+		<m_items>
+			<itemGUID>593bea3d-c127-4574-ac1e-2197dc56e486</itemGUID>
+		</m_items>
+		<!--BSSO Gloves-->
+		<m_items>
+			<itemGUID>b2cc4fbc-b783-4c2e-9827-2d8037143178</itemGUID>
+		</m_items>
+		<!--BSSO Tie-->
+		<m_items>
+			<itemGUID>304a5a83-6060-466c-a1bb-891990d72860</itemGUID>
+		</m_items>
+		<!--BSSO Shoes-->
+		<m_items>
+			<itemGUID>ebcb9a50-f840-4229-a3bd-5fb47f63fc57</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	
+	<!--BSSO Black-->
+	<m_MaleOutfits>
+		<m_Name>BSSOBlackOutfit</m_Name>
+		<m_Guid>ae9d9d85-b4dd-432e-a246-9cbb18f43f43</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<!--BSSO Vest-->
+		<m_items>
+			<probability>0.3</probability>
+			<itemGUID>24bbc473-942c-43c3-9788-e7147b902158</itemGUID>
+		</m_items>
+		<!--BSSO Pants-->
+		<m_items>
+			<itemGUID>602bfa4d-afea-46c2-9d4a-cc497e7cd94a</itemGUID>
+		</m_items>
+		<!--BSSO Holster-->
+		<m_items>
+			<itemGUID>4e838ad9-0c49-4879-b87c-d956529b9894</itemGUID>
+		</m_items>
+		<!--BSSO Shirt-->
+		<m_items>
+			<itemGUID>eb5ea746-da59-464f-887e-431f57607771</itemGUID>
+		</m_items>
+		<!--BSSO Jacket-->
+		<m_items>
+			<probability>0.3</probability>
+			<itemGUID>edf8b0c8-40fb-4583-95b0-6a0ce72f5d0c</itemGUID>
+		</m_items>
+		<!--BSSO Hat-->
+		<m_items>
+			<itemGUID>9072a6f8-32d2-43bb-864f-3417b81c2b41</itemGUID>
+		</m_items>
+		<!--Black Shoes-->
+		<m_items>
+			<itemGUID>593bea3d-c127-4574-ac1e-2197dc56e486</itemGUID>
+		</m_items>
+		<!--BSSO Gloves-->
+		<m_items>
+			<itemGUID>b2cc4fbc-b783-4c2e-9827-2d8037143178</itemGUID>
+		</m_items>
+		<!--BSSO Tie-->
+		<m_items>
+			<itemGUID>304a5a83-6060-466c-a1bb-891990d72860</itemGUID>
+		</m_items>
+		<!--BSSO Shoes-->
+		<m_items>
+			<itemGUID>ebcb9a50-f840-4229-a3bd-5fb47f63fc57</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	
+	<m_FemaleOutfits>
+		<m_Name>BSSOBlackOutfit</m_Name>
+		<m_Guid>3b6d785f-d8fa-4b28-8044-b1934c8a028f</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<!--BSSO Vest-->
+		<m_items>
+			<probability>0.3</probability>
+			<itemGUID>24bbc473-942c-43c3-9788-e7147b902158</itemGUID>
+		</m_items>
+		<!--BSSO Pants-->
+		<m_items>
+			<itemGUID>602bfa4d-afea-46c2-9d4a-cc497e7cd94a</itemGUID>
+		</m_items>
+		<!--BSSO Holster-->
+		<m_items>
+			<itemGUID>4e838ad9-0c49-4879-b87c-d956529b9894</itemGUID>
+		</m_items>
+		<!--BSSO Shirt-->
+		<m_items>
+			<itemGUID>eb5ea746-da59-464f-887e-431f57607771</itemGUID>
+		</m_items>
+		<!--BSSO Jacket-->
+		<m_items>
+			<probability>0.3</probability>
+			<itemGUID>edf8b0c8-40fb-4583-95b0-6a0ce72f5d0c</itemGUID>
+		</m_items>
+		<!--BSSO Hat-->
+		<m_items>
+			<itemGUID>9072a6f8-32d2-43bb-864f-3417b81c2b41</itemGUID>
+		</m_items>
+		<!--Black Shoes-->
+		<m_items>
+			<itemGUID>593bea3d-c127-4574-ac1e-2197dc56e486</itemGUID>
+		</m_items>
+		<!--BSSO Gloves-->
+		<m_items>
+			<itemGUID>b2cc4fbc-b783-4c2e-9827-2d8037143178</itemGUID>
+		</m_items>
+		<!--BSSO Tie-->
+		<m_items>
+			<itemGUID>304a5a83-6060-466c-a1bb-891990d72860</itemGUID>
+		</m_items>
+		<!--BSSO Shoes-->
+		<m_items>
+			<itemGUID>ebcb9a50-f840-4229-a3bd-5fb47f63fc57</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
+	
+	<!--BSSO Gray Male -->
+	<m_MaleOutfits>
+		<m_Name>BSSOGrayOutfit</m_Name>
+		<m_Guid>81dffc1e-c2d2-4aae-b852-ed2cf7960b26</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<!--BSSO Pants-->
+		<m_items>
+			<itemGUID>eeffc039-d746-4626-a9db-6c7241242a84</itemGUID> 
+		</m_items>
+		<!--BSSO Holster-->
+		<m_items>
+			<itemGUID>4e838ad9-0c49-4879-b87c-d956529b9894</itemGUID>
+		</m_items>
+		<!--BSSO Shirt-->
+		<m_items>
+			<itemGUID>8ef714d0-4c86-46b9-8e52-533e09bc28af</itemGUID>
+		</m_items>
+		<!--BSSO Jacket-->
+		<m_items>
+			<probability>0.3</probability>
+			<itemGUID>edf8b0c8-40fb-4583-95b0-6a0ce72f5d0c</itemGUID>
+		</m_items>
+		<!--BSSO Hat-->
+		<m_items>
+			<itemGUID>59c3d28d-0000-4a93-b7e9-7cb58605879a</itemGUID>
+		</m_items>
+		<!--Black Shoes-->
+		<m_items>
+			<itemGUID>593bea3d-c127-4574-ac1e-2197dc56e486</itemGUID>
+		</m_items>
+		<!--BSSO Gloves-->
+		<m_items>
+			<itemGUID>b2cc4fbc-b783-4c2e-9827-2d8037143178</itemGUID>
+		</m_items>
+		<!--BSSO Tie-->
+		<m_items>
+			<itemGUID>038a2132-28ed-47b4-82b2-020339d022b0</itemGUID>
+		</m_items>
+		<!--BSSO Shoes-->
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	
+	<!--BSSO Gray Female-->
+	<m_FemaleOutfits>
+		<m_Name>BSSOGrayOutfit</m_Name>
+		<m_Guid>db7b666b-a20c-4ebe-b987-12df41daff34</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<!--BSSO Pants-->
+		<m_items>
+			<itemGUID>eeffc039-d746-4626-a9db-6c7241242a84</itemGUID> 
+		</m_items>
+		<!--BSSO Holster-->
+		<m_items>
+			<itemGUID>4e838ad9-0c49-4879-b87c-d956529b9894</itemGUID>
+		</m_items>
+		<!--BSSO Shirt-->
+		<m_items>
+			<itemGUID>8ef714d0-4c86-46b9-8e52-533e09bc28af</itemGUID>
+		</m_items>
+		<!--BSSO Jacket-->
+		<m_items>
+			<probability>0.3</probability>
+			<itemGUID>edf8b0c8-40fb-4583-95b0-6a0ce72f5d0c</itemGUID>
+		</m_items>
+		<!--BSSO Hat-->
+		<m_items>
+			<itemGUID>59c3d28d-0000-4a93-b7e9-7cb58605879a</itemGUID>
+		</m_items>
+		<!--Black Shoes-->
+		<m_items>
+			<itemGUID>593bea3d-c127-4574-ac1e-2197dc56e486</itemGUID>
+		</m_items>
+		<!--BSSO Gloves-->
+		<m_items>
+			<itemGUID>b2cc4fbc-b783-4c2e-9827-2d8037143178</itemGUID>
+		</m_items>
+		<!--BSSO Tie-->
+		<m_items>
+			<itemGUID>038a2132-28ed-47b4-82b2-020339d022b0</itemGUID>
+		</m_items>
+		<!--BSSO Shoes-->
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
+	
+	
+	<!--REV WAR-->
+	<m_MaleOutfits>
+		<m_Name>TikitownRevWarUS</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>744b0386-00a3-47d6-a8d0-ef921b35b382</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>5ca4bea3-34d9-40e6-994c-ff68ea972f99</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<probability>0.3</probability>     
+			<itemGUID>cb1ce818-9e43-4419-a61f-57f83702e5ec</itemGUID>        
+		</m_items>
+		<m_items> <!-- T- shirt -->
+			<itemGUID>cb1ce818-9e43-4419-a61f-57f83702e5ec</itemGUID>       <!-- a 50/50 chance of it choosing between these two T-shirt clothing items -->
+			<subItems>
+				<itemGUID>c09b0127-4605-44c3-9a8f-626f973072ae</itemGUID>
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>	
+	</m_MaleOutfits>
+	
+	<m_FemaleOutfits>
+		<m_Name>TikitownRevWarUS</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>4d585913-9b02-4536-b0b7-7d38bd651168</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>5ca4bea3-34d9-40e6-994c-ff68ea972f99</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<probability>0.3</probability>     
+			<itemGUID>cb1ce818-9e43-4419-a61f-57f83702e5ec</itemGUID>        
+		</m_items>
+		<m_items> <!-- T- shirt -->
+			<itemGUID>cb1ce818-9e43-4419-a61f-57f83702e5ec</itemGUID>       <!-- a 50/50 chance of it choosing between these two T-shirt clothing items -->
+			<subItems>
+				<itemGUID>c09b0127-4605-44c3-9a8f-626f973072ae</itemGUID>
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
+	
+	<!--1812-->
+	<m_MaleOutfits>
+		<m_Name>TikitownTwelveWarUS</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>59c3d28d-0000-4a93-b7e9-7cb58605879a</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>9a21f3a3-23a0-48a4-89eb-87a1bf1bf851</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>a583591b-f055-47c6-8266-eae6500b625b</itemGUID>        
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	<m_FemaleOutfits>
+		<m_Name>TikitownTwelveWarUS</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>59c3d28d-0000-4a93-b7e9-7cb58605879a</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>9a21f3a3-23a0-48a4-89eb-87a1bf1bf851</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>a583591b-f055-47c6-8266-eae6500b625b</itemGUID>        
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
+	
+	<!--Civil War US-->
+	<m_MaleOutfits>
+		<m_Name>TikitownCWUS</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>edf8b0c8-40fb-4583-95b0-6a0ce72f5d0c</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>b6b25536-e3f5-4cf2-b19f-31bfcc3708c5</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>1f5c7416-2134-4a43-b410-1bf0b31758e8</itemGUID>        
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	<m_FemaleOutfits>
+		<m_Name>TikitownCWUS</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>edf8b0c8-40fb-4583-95b0-6a0ce72f5d0c</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>b6b25536-e3f5-4cf2-b19f-31bfcc3708c5</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>1f5c7416-2134-4a43-b410-1bf0b31758e8</itemGUID>        
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
+	
+	<!--Civil War CS-->
+	<m_MaleOutfits>
+		<m_Name>TikitownCWCS</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>1d017a67-1a36-4657-8abd-e619cca3f767</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>431f1d5b-44de-48f0-920c-d0119e1513f9</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>9cbe628d-8b42-4cf5-acbd-924b6e901907</itemGUID>        
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	<m_FemaleOutfits>
+		<m_Name>TikitownCWCS</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>1d017a67-1a36-4657-8abd-e619cca3f767</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>431f1d5b-44de-48f0-920c-d0119e1513f9</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>9cbe628d-8b42-4cf5-acbd-924b6e901907</itemGUID>        
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
+	
+	<!--Spanish American War-->
+	<m_MaleOutfits>
+		<m_Name>TikitownSAWar</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>373ee3a8-028f-448c-9ae5-9a8890aff8b7</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>2a005aa4-6cc0-4665-a80d-7fdc3d028765</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>c4d4dd3f-754e-4b86-b9d6-52b56873d093</itemGUID>        
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	<m_FemaleOutfits>
+		<m_Name>TikitownSAWar</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>373ee3a8-028f-448c-9ae5-9a8890aff8b7</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>2a005aa4-6cc0-4665-a80d-7fdc3d028765</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>c4d4dd3f-754e-4b86-b9d6-52b56873d093</itemGUID>        
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
+	
+	<!--WWI-->
+	<m_MaleOutfits>
+		<m_Name>TikitownWWI</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>8a347185-6768-4c62-9fdd-40e31dabe3ec</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>746ce0da-4df3-44c0-92a8-bb600ef1cd1a</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>a993a3a0-63c5-40c0-8519-0b745d020149</itemGUID>        
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+		<m_items> <!-- Rings -->
+			<probability>0.3</probability>                                  <!-- When probability is thrown in, it gives it a chance of it not spawning at all. Here its a .3 of any -->
+			<itemGUID>4cbb081e-0e9a-4248-bec1-0aa226e082e1</itemGUID>       <!-- Piece of jewelry to spawn. -->
+			<subItems>
+				<itemGUID>e4b3135f-a541-4870-a7b9-2ba6f730bc5c</itemGUID>
+			</subItems>
+		</m_items>
+	</m_MaleOutfits>
+	<m_FemaleOutfits>
+		<m_Name>TikitownWWI</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>8a347185-6768-4c62-9fdd-40e31dabe3ec</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>746ce0da-4df3-44c0-92a8-bb600ef1cd1a</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>a993a3a0-63c5-40c0-8519-0b745d020149</itemGUID>        
+		</m_items>
+		
+		<m_items> <!-- Rings -->
+			<probability>0.3</probability>                                  <!-- When probability is thrown in, it gives it a chance of it not spawning at all. Here its a .3 of any -->
+			<itemGUID>4cbb081e-0e9a-4248-bec1-0aa226e082e1</itemGUID>       <!-- Piece of jewelry to spawn. -->
+			<subItems>
+				<itemGUID>e4b3135f-a541-4870-a7b9-2ba6f730bc5c</itemGUID>
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
+	
+	<!--WW2-->
+	<m_MaleOutfits>
+		<m_Name>TikitownWWII</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>bfd83626-9e2d-4463-bdaa-eaf009f27bfd</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>181c9559-8df9-4299-8caa-a30f69766a9b</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>a85cbee7-998b-4630-aafb-d77be784eb1d</itemGUID>        
+		</m_items>
+		
+		<m_items> <!-- Rings -->
+			<probability>0.3</probability>                                  <!-- When probability is thrown in, it gives it a chance of it not spawning at all. Here its a .3 of any -->
+			<itemGUID>4cbb081e-0e9a-4248-bec1-0aa226e082e1</itemGUID>       <!-- Piece of jewelry to spawn. -->
+			<subItems>
+				<itemGUID>e4b3135f-a541-4870-a7b9-2ba6f730bc5c</itemGUID>
+			</subItems>
+		</m_items>
+		<m_items> <!-- Classic Watches -->
+			<itemGUID>5fc22466-2942-4ba1-8c33-2a8528b73021</itemGUID>
+			<subItems>
+				<itemGUID>ce1a8520-7120-432e-8a3a-aa7b3094f0bb</itemGUID>         <!-- BTW copy and paste this GUID into grepWin search and you find out what this is. -->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	<m_FemaleOutfits>
+		<m_Name>TikitownWWII</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>bfd83626-9e2d-4463-bdaa-eaf009f27bfd</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>181c9559-8df9-4299-8caa-a30f69766a9b</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>a85cbee7-998b-4630-aafb-d77be784eb1d</itemGUID>        
+		</m_items>
+		
+		<m_items> <!-- Rings -->
+			<probability>0.3</probability>                                  <!-- When probability is thrown in, it gives it a chance of it not spawning at all. Here its a .3 of any -->
+			<itemGUID>4cbb081e-0e9a-4248-bec1-0aa226e082e1</itemGUID>       <!-- Piece of jewelry to spawn. -->
+			<subItems>
+				<itemGUID>e4b3135f-a541-4870-a7b9-2ba6f730bc5c</itemGUID>
+			</subItems>
+		</m_items>
+		<m_items> <!-- Classic Watches -->
+			<itemGUID>5fc22466-2942-4ba1-8c33-2a8528b73021</itemGUID>
+			<subItems>
+				<itemGUID>ce1a8520-7120-432e-8a3a-aa7b3094f0bb</itemGUID>         <!-- BTW copy and paste this GUID into grepWin search and you find out what this is. -->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
+	
+	<!--Vietnam-->
+	<m_MaleOutfits>
+		<m_Name>TikitownVietnamWar</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>d83ad13f-2b9b-4d12-8ed9-7a4858ecc7bb</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>2e45a4b0-da24-491c-b16a-2b4426e1f769</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>fbb92b0b-285f-49fe-8451-2c01e2b045f4</itemGUID>        
+		</m_items>
+		
+		<m_items> <!-- Rings -->
+			<probability>0.3</probability>                                  <!-- When probability is thrown in, it gives it a chance of it not spawning at all. Here its a .3 of any -->
+			<itemGUID>4cbb081e-0e9a-4248-bec1-0aa226e082e1</itemGUID>       <!-- Piece of jewelry to spawn. -->
+			<subItems>
+				<itemGUID>e4b3135f-a541-4870-a7b9-2ba6f730bc5c</itemGUID>
+			</subItems>
+		</m_items>
+		<m_items> <!-- Rings -->
+			<probability>0.3</probability>                                  <!-- When probability is thrown in, it gives it a chance of it not spawning at all. Here its a .3 of any -->
+			<itemGUID>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</itemGUID>       <!-- Piece of jewelry to spawn. -->
+		</m_items>
+		<m_items> <!-- Classic Watches -->
+			<itemGUID>5fc22466-2942-4ba1-8c33-2a8528b73021</itemGUID>
+			<subItems>
+				<itemGUID>ce1a8520-7120-432e-8a3a-aa7b3094f0bb</itemGUID>         <!-- BTW copy and paste this GUID into grepWin search and you find out what this is. -->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	<m_FemaleOutfits>
+		<m_Name>TikitownVietnamWar</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>d83ad13f-2b9b-4d12-8ed9-7a4858ecc7bb</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>2e45a4b0-da24-491c-b16a-2b4426e1f769</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>fbb92b0b-285f-49fe-8451-2c01e2b045f4</itemGUID>        
+		</m_items>
+		
+		<m_items> <!-- Rings -->
+			<probability>0.3</probability>                                  <!-- When probability is thrown in, it gives it a chance of it not spawning at all. Here its a .3 of any -->
+			<itemGUID>4cbb081e-0e9a-4248-bec1-0aa226e082e1</itemGUID>       <!-- Piece of jewelry to spawn. -->
+			<subItems>
+				<itemGUID>e4b3135f-a541-4870-a7b9-2ba6f730bc5c</itemGUID>
+			</subItems>
+		</m_items>
+		<m_items> <!-- Classic Watches -->
+			<itemGUID>5fc22466-2942-4ba1-8c33-2a8528b73021</itemGUID>
+			<subItems>
+				<itemGUID>ce1a8520-7120-432e-8a3a-aa7b3094f0bb</itemGUID>         <!-- BTW copy and paste this GUID into grepWin search and you find out what this is. -->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
+	
+	<!--Pirate-->
+	<m_MaleOutfits>
+		<m_Name>TikitownPirate</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>98db06e1-e64c-4f22-8392-46c9699b15eb</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>2e39aca7-563b-41a3-bdd7-2103e0ab57d3</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>ca684d41-a910-479a-bd92-20d6fffe0748</itemGUID>        
+		</m_items>
+		
+		<m_items> <!-- Rings -->
+			<probability>0.3</probability>                                  <!-- When probability is thrown in, it gives it a chance of it not spawning at all. Here its a .3 of any -->
+			<itemGUID>4cbb081e-0e9a-4248-bec1-0aa226e082e1</itemGUID>       <!-- Piece of jewelry to spawn. -->
+			<subItems>
+				<itemGUID>e4b3135f-a541-4870-a7b9-2ba6f730bc5c</itemGUID>
+			</subItems>
+		</m_items>
+		<m_items> <!-- Classic Watches -->
+			<itemGUID>5fc22466-2942-4ba1-8c33-2a8528b73021</itemGUID>
+			<subItems>
+				<itemGUID>ce1a8520-7120-432e-8a3a-aa7b3094f0bb</itemGUID>         <!-- BTW copy and paste this GUID into grepWin search and you find out what this is. -->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	<m_FemaleOutfits>
+		<m_Name>TikitownPirate</m_Name>                                <!-- The Name of the zombie outfit, it will appear like this in the debug list of Zombie manager -->
+		<m_Guid>98db06e1-e64c-4f22-8392-46c9699b15eb</m_Guid>               <!-- The outfit needs a new GUID. Get a new GUID. -->
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>                            <!-- No pants hue change to the textures -->
+		<m_AllowTopTint>false</m_AllowTopTint>                              <!-- No top tint to the textures -->
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>                      <!-- No decal allowed on shirt -->
+		<m_items> <!-- Pants -->                                          <!-- This is how you comment in a .XML file btw! -->
+			<itemGUID>2e39aca7-563b-41a3-bdd7-2103e0ab57d3</itemGUID>
+		</m_items>
+		<m_items> <!-- Jacket -->                                      <!-- What we made above, we put here, only put the GUID refering to it -->
+			<itemGUID>ca684d41-a910-479a-bd92-20d6fffe0748</itemGUID>        
+		</m_items>
+		
+		<m_items> <!-- Rings -->
+			<probability>0.3</probability>                                  <!-- When probability is thrown in, it gives it a chance of it not spawning at all. Here its a .3 of any -->
+			<itemGUID>4cbb081e-0e9a-4248-bec1-0aa226e082e1</itemGUID>       <!-- Piece of jewelry to spawn. -->
+			<subItems>
+				<itemGUID>e4b3135f-a541-4870-a7b9-2ba6f730bc5c</itemGUID>
+			</subItems>
+		</m_items>
+		<m_items> <!-- Classic Watches -->
+			<itemGUID>5fc22466-2942-4ba1-8c33-2a8528b73021</itemGUID>
+			<subItems>
+				<itemGUID>ce1a8520-7120-432e-8a3a-aa7b3094f0bb</itemGUID>         <!-- BTW copy and paste this GUID into grepWin search and you find out what this is. -->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>f7f04219-2c39-430d-b3f8-3353cff818d5</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
+</outfitManager>

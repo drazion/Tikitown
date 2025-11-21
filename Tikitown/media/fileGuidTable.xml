@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/LaserTag_Chest_Harness.xml</path>
+		<guid>035f461f-7828-400b-90da-71cb1a61a00f</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/Hat_LaserTagHelmet.xml</path>
+		<guid>87d16b4d-8bdb-46c8-8ac4-a54cbacb0168</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/TShirt_Longsleeve_Tenchi.xml</path>
+		<guid>845de42b0-dd15-4b73-a335-162acb75648a</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/SuitTrousersMesh_Tenchi.xml</path>
+		<guid>0a5c1c3a-cf16-4791-aa48-5313d928a042</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/JacketLong_Tenchi.xml</path>
+		<guid>371e966b-c6bc-422b-8993-9b96b89f6b84</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/Jacket_RevWarUS.xml</path>
+		<guid>cb1ce818-9e43-4419-a61f-57f83702e5ec</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/TShirt_Longsleeve_RevWarUS.xml</path>
+		<guid>c09b0127-4605-44c3-9a8f-626f973072ae</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/SuitTrousersMesh_RevWarUS.xml</path>
+		<guid>5ca4bea3-34d9-40e6-994c-ff68ea972f99</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/Jacket_War1812.xml</path>
+		<guid>a583591b-f055-47c6-8266-eae6500b625b</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/SuitTrousersMesh_War1812.xml</path>
+		<guid>9a21f3a3-23a0-48a4-89eb-87a1bf1bf851</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/Jacket_CivilWarUS.xml</path>
+		<guid>1f5c7416-2134-4a43-b410-1bf0b31758e8</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/SuitTrousersMesh_CivilWarUS.xml</path>
+		<guid>b6b25536-e3f5-4cf2-b19f-31bfcc3708c5</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/Jacket_CivilWarCS.xml</path>
+		<guid>9cbe628d-8b42-4cf5-acbd-924b6e901907</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/SuitTrousersMesh_CivilWarCS.xml</path>
+		<guid>431f1d5b-44de-48f0-920c-d0119e1513f9</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/Jacket_SpanAmWar.xml</path>
+		<guid>c4d4dd3f-754e-4b86-b9d6-52b56873d093</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/SuitTrousersMesh_SpanAmWar.xml</path>
+		<guid>2a005aa4-6cc0-4665-a80d-7fdc3d028765</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/Jacket_WWIAm.xml</path>
+		<guid>a993a3a0-63c5-40c0-8519-0b745d020149</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/SuitTrousersMesh_WWIAm.xml</path>
+		<guid>746ce0da-4df3-44c0-92a8-bb600ef1cd1a</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/Jacket_WW2Am.xml</path>
+		<guid>a85cbee7-998b-4630-aafb-d77be784eb1d</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/SuitTrousersMesh_WW2Am.xml</path>
+		<guid>181c9559-8df9-4299-8caa-a30f69766a9b</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/Jacket_VietnamAm.xml</path>
+		<guid>fbb92b0b-285f-49fe-8451-2c01e2b045f4</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/SuitTrousersMesh_VietnamAm.xml</path>
+		<guid>2e45a4b0-da24-491c-b16a-2b4426e1f769</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/Jacket_Pirate.xml</path>
+		<guid>ca684d41-a910-479a-bd92-20d6fffe0748</guid>
+	</files>
+	
+	<files>
+		<path>media/clothing/clothingItems/SuitTrousersMesh_Pirate.xml</path>
+		<guid>2e39aca7-563b-41a3-bdd7-2103e0ab57d3</guid>
+	</files>
+</fileGuidTable>

@@ -1,0 +1,82 @@
+VERSION = 1,
+
+option Tikitown.CollectionBaseball
+{
+	type = boolean,
+	default = true,
+	page = Tikitown,
+	translation = Tikitown_CollectionBaseball,
+	tooltip = Tikitown_CollectionBaseball_tooltip,
+}
+
+option Tikitown.CollectionBaseballCommon
+{
+	type = double,
+	default = 1,
+	min = 0,
+	max = 30,
+	page = Tikitown,
+	translation = Tikitown_CollectionBaseballCommon,
+	tooltip = Tikitown_CollectionBaseballCommon_tooltip,
+}
+
+option Tikitown.CollectionBaseballRare
+{
+	type = double,
+	default = 1,
+	min = 0,
+	max = 30,
+	page = Tikitown,
+	translation = Tikitown_CollectionBaseballRare,
+	tooltip = Tikitown_CollectionBaseballRare_tooltip,
+}
+
+option Tikitown.CollectionBaseballZombieCommon
+{
+	type = double,
+	default = .075,
+	min = 0,
+	max = .4,
+	page = Tikitown,
+	translation = Tikitown_CollectionBaseballZombieCommon,
+	tooltip = Tikitown_CollectionBaseballZombieCommon_tooltip,
+}
+
+option Tikitown.CollectionBaseballZombieRare
+{
+	type = double,
+	default = .025,
+	min = 0,
+	max = .4,
+	page = Tikitown,
+	translation = Tikitown_CollectionBaseballZombieRare,
+	tooltip = Tikitown_CollectionBaseballZombieRare_tooltip,
+}
+
+option Tikitown.HistoricalOutfits
+{
+	type = boolean,
+	default = true,
+	page = Tikitown,
+	translation = Tikitown_HistoricalOutfits,
+	tooltip = Tikitown_HistoricalOutfits_tooltip,
+}
+
+option Tikitown.MedicalStims
+{
+	type = boolean,
+	default = true,
+	page = Tikitown,
+	translation = Tikitown_MedicalStims,
+	tooltip = Tikitown_MedicalStims_tooltip,
+}
+
+option Tikitown.LaserTagItems
+{
+	type = boolean,
+	default = true,
+	page = Tikitown,
+	translation = Tikitown_LaserTagItems,
+	tooltip = Tikitown_LaserTagItems_tooltip,
+
+}
