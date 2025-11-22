@@ -225,7 +225,7 @@ module Tikitown
 		inputs
 		{
 			item 1 [Tikitown.Titanium_Baseball_Bat] mode:keep flags[IsDamaged],
-			item 2 [Base.TirePiece],
+			item 5 [Base.LeatherStrips],
 			item 2 [Base.SmallSheetMetal],
 			item 1 [Base.MetalBar],
 			item 4 [Base.WeldingRods],
