@@ -83,6 +83,201 @@ function TikitownItemsDistribution.TikitownCardSpawn(cardSpawnBaseCommon, cardSp
 	ItemPickerJava.Parse()
 end
 
+function TikitownItemsDistribution.PocketPawsSpawn ()
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.PlushCanSurprise")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.PlushCanPenguin")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.PlushCanBeaver")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.PlushCanCat")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.PlushCanElephant")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.PlushCanPig")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.PlushCanPossum")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.PlushCanRaccoon")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.PlushCanRhino")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.PlushCanSheep")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.PlushCanDolphin")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.PlushCanWhale")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.Whale")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.Penguin")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.Rhino")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.Sheep")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.Cat")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.Dolphin")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.Pig")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.Raccoon")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.Possum")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.Beaver")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, "Tikitown.Elephant")
+	table.insert(ProceduralDistributions["list"]["BedroomDresserChild"].items, .25)
+	
+	
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.PlushCanSurprise")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.PlushCanPenguin")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.PlushCanBeaver")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.PlushCanCat")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.PlushCanElephant")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.PlushCanPig")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.PlushCanPossum")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.PlushCanRaccoon")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.PlushCanRhino")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.PlushCanSheep")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.PlushCanDolphin")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.PlushCanWhale")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.Whale")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.Penguin")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.Rhino")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.Sheep")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.Cat")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.Dolphin")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.Pig")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.Raccoon")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.Possum")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.Beaver")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, "Tikitown.Elephant")
+	table.insert(ProceduralDistributions["list"]["BedroomSidetableChild"].items, .25)
+	
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.PlushCanSurprise")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.PlushCanPenguin")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.PlushCanBeaver")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.PlushCanCat")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.PlushCanElephant")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.PlushCanPig")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.PlushCanPossum")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.PlushCanRaccoon")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.PlushCanRhino")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.PlushCanSheep")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.PlushCanDolphin")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.PlushCanWhale")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .5)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.Whale")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.Penguin")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.Rhino")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.Sheep")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.Cat")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.Dolphin")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.Pig")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.Raccoon")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.Possum")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.Beaver")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .25)
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, "Tikitown.Elephant")
+	table.insert(ProceduralDistributions["list"]["WardrobeChild"].items, .25)
+
+	ItemPickerJava.Parse()
+end
+
+SuburbsDistributions.possumbilities = {
+	shelves = {
+		procedural = true,
+		procList = {
+			{ name = "PocketPawsCans", min = 4, max = 99, weightChance = 30 },
+			{ name = "PocketPawsPlush", min = 1, max = 2, weightChance = 10 },
+			{ name = "GiftStoreToys", min = 0, max = 2, weightChance = 10 },
+			{ name = "GiftStoreFancy", min = 0, max = 2, weightChance = 10 },
+		},
+	},
+	clothingrack = {
+		procedural = true,
+		procList = {
+			{ name = "PocketPawsCans", min = 4, max = 99, weightChance = 30 },
+			{ name = "PocketPawsPlush", min = 1, max = 2, weightChance = 10 },
+			{ name = "GiftStoreToys", min = 0, max = 2, weightChance = 10 },
+			
+		},
+	},
+	counter = {
+		procedural = true,
+		procList = {
+			{ name = "PocketPawsCans", min = 1, max = 99, weightChance = 30 },
+			{ name = "PocketPawsPlush", min = 1, max = 2, weightChance = 10 },
+			{ name = "StoreCounterBagsFancy", min = 1, max = 1, weightChance = 10 },
+			
+		},
+	},
+	displaycase = {
+		procedural = true,
+		procList = {
+			{ name = "JewelrySilver", min = 1, max = 99, weightChance = 30 },
+			{ name = "PocketPawsPlush", min = 1, max = 2, weightChance = 10 },
+		},
+	},
+	
+	cardboardbox = {
+		{ name = "PocketPawsCans", min = 4, max = 99, weightChance = 30 },
+		{ name = "PocketPawsPlush", min = 1, max = 2, weightChance = 10 },
+		{ name = "GiftStoreToys", min = 0, max = 2, weightChance = 10 },
+		{ name = "GiftStoreFancy", min = 0, max = 2, weightChance = 10 },
+	},
+	
+	metal_shelves = {
+		{ name = "PocketPawsCans", min = 1, max = 99, weightChance = 30 },
+		{ name = "PocketPawsPlush", min = 1, max = 2, weightChance = 10 },
+	},
+}
+
 SuburbsDistributions.whistlindixiemusic = {
 	shelves = {
 		procedural = true,

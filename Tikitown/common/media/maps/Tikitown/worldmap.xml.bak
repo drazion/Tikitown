@@ -29133,6 +29133,43 @@
     <property name="building" value="RetailAndCommercial"/>
    </properties>
   </feature>
+  <feature>
+   <geometry type="Polygon">
+    <coordinates>
+     <point x="36" y="239"/>
+     <point x="41" y="239"/>
+     <point x="41" y="229"/>
+     <point x="50" y="229"/>
+     <point x="50" y="225"/>
+     <point x="58" y="225"/>
+     <point x="58" y="229"/>
+     <point x="68" y="229"/>
+     <point x="68" y="239"/>
+     <point x="73" y="239"/>
+     <point x="73" y="215"/>
+     <point x="69" y="215"/>
+     <point x="69" y="216"/>
+     <point x="67" y="216"/>
+     <point x="67" y="215"/>
+     <point x="60" y="215"/>
+     <point x="60" y="216"/>
+     <point x="57" y="216"/>
+     <point x="57" y="215"/>
+     <point x="51" y="215"/>
+     <point x="51" y="216"/>
+     <point x="48" y="216"/>
+     <point x="48" y="215"/>
+     <point x="42" y="215"/>
+     <point x="42" y="216"/>
+     <point x="39" y="216"/>
+     <point x="39" y="215"/>
+     <point x="36" y="215"/>
+    </coordinates>
+   </geometry>
+   <properties>
+    <property name="building" value="RetailAndCommercial"/>
+   </properties>
+  </feature>
  </cell>
  <cell x="25" y="25">
   <feature>

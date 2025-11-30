@@ -16,6 +16,11 @@ function TikitownItemsDistribution.onInitGlobalModData(isNewGame)
 		--print("Cards Spawning")
 	end
 	
+	if SandboxVars.Tikitown.CollectionPlush then
+		TikitownItemsDistribution.PocketPawsSpawn()
+		print("Plushies Spawning")
+	end
+	
 end
 
 Events.OnInitGlobalModData.Add(TikitownItemsDistribution.onInitGlobalModData)

@@ -1,5 +1,14 @@
 VERSION = 1,
 
+option Tikitown.CollectionPlush
+{
+	type = boolean,
+	default = true,
+	page = Tikitown,
+	translation = Tikitown_PlushItems,
+	tooltip = Tikitown_PlushItems_tooltip,
+}
+
 option Tikitown.CollectionBaseball
 {
 	type = boolean,
@@ -78,5 +87,5 @@ option Tikitown.LaserTagItems
 	page = Tikitown,
 	translation = Tikitown_LaserTagItems,
 	tooltip = Tikitown_LaserTagItems_tooltip,
-
 }
+

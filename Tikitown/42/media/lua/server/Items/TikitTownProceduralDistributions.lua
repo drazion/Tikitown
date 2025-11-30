@@ -1,5 +1,43 @@
 local function preDistributionMerge()
 
+	
+	ProceduralDistributions.list.PocketPawsCans = {
+    rolls = 5,
+    items = {
+        "Tikitown.PlushCanBeaver",   2,
+        "Tikitown.PlushCanCat",      4,
+        "Tikitown.PlushCanElephant", 4,
+        "Tikitown.PlushCanPig",      4,
+        "Tikitown.PlushCanPossum",   4,
+        "Tikitown.PlushCanRaccoon",  4,
+        "Tikitown.PlushCanRhino",    4,
+        "Tikitown.PlushCanSheep",    4,
+        "Tikitown.PlushCanDolphin",  4,
+		"Tikitown.PlushCanPenguin",	 1,
+        "Tikitown.PlushCanWhale",    2,
+        "Tikitown.PlushCanSurprise", 12,
+    }
+}
+
+ProceduralDistributions.list.PocketPawsPlush = {
+    rolls = 5,
+    items = {
+        "Tikitown.Whale",     4,
+        "Tikitown.Penguin",   1,
+        "Tikitown.Rhino",     4,
+        "Tikitown.Sheep",     4,
+        "Tikitown.Cat",       4,
+        "Tikitown.Dolphin",   4,
+        "Tikitown.Pig",       4,
+        "Tikitown.Raccoon",   4,
+        "Tikitown.Possum",    4,
+        "Tikitown.Elephant",  4,
+        "Tikitown.Beaver",    4,
+    }
+}
+
+	
+	
 	ProceduralDistributions.list.RangerRoom = {
 		rolls = 5,
 		items = {
