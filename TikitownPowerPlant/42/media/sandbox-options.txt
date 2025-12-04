@@ -1,0 +1,32 @@
+VERSION = 1,
+
+option TikitownPower.DailyDegradeChance
+{
+	type = double,
+	default = 2,
+	min = -1,
+	max = 10,
+	page = TikitownPower,
+	translation = TikitownPower_DailyDegradeChance,
+	tooltip = TikitownPower_DailyDegradeChance_tooltip,
+}
+
+option TikitownPower.RunningWearMultiplier
+{
+	type = double,
+	default = 1.1,
+	min = 0,
+	max = 5,
+	page = TikitownPower,
+	translation = TikitownPower_RunningWearMultiplier,
+	tooltip = TikitownPower_RunningWearMultiplier_tooltip,
+}
+
+option TikitownPower.PartsCanBeDestroyed
+{
+	type = boolean,
+	default = true,
+	page = TikitownPower,
+	translation = TikitownPower_PartsCanBeDestroyed,
+	tooltip = TikitownPower_PartsCanBeDestroyed_tooltip,
+}

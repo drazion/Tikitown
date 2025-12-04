@@ -36,6 +36,22 @@ ProceduralDistributions.list.PocketPawsPlush = {
     }
 }
 
+ProceduralDistributions.list.TikitownPrintandShip = {
+	rolls = 5,
+    items = {
+        "Tikitown.Whale",     4,
+        "Tikitown.Penguin",   1,
+        "Tikitown.Rhino",     4,
+        "Tikitown.Sheep",     4,
+        "Tikitown.Cat",       4,
+        "Tikitown.Dolphin",   4,
+        "Tikitown.Pig",       4,
+        "Tikitown.Raccoon",   4,
+        "Tikitown.Possum",    4,
+        "Tikitown.Elephant",  4,
+        "Tikitown.Beaver",    4,
+    }
+}
 	
 	
 	ProceduralDistributions.list.RangerRoom = {

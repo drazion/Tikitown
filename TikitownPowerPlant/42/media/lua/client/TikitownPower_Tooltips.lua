@@ -3,8 +3,8 @@
 -- Properly inject condition bar for TikitownPower.Rotor
 --=============================================================
 
--- Wait for ISToolTipInv to exist
 local function addRotorConditionHook()
+    -- Make sure ISToolTipInv exists and has a render method
     if not ISToolTipInv or not ISToolTipInv.render then
         print("[TikitownPower] ISToolTipInv not ready.")
         return
@@ -14,41 +14,69 @@ local function addRotorConditionHook()
     local originalRender = ISToolTipInv.render
 
     function ISToolTipInv:render()
-        -- Run vanilla draw first
+        -- Let vanilla (and other mods) draw first
         originalRender(self)
 
-        -- Validate item
+        -- Make sure we actually have an item
         local item = self.item
-        if not item or item:getFullType() ~= "TikitownPower.Rotor" then
+        if not item then
             return
         end
 
-        local cond, condMax = item:getCondition(), item:getConditionMax()
-		if condMax and condMax > 0 then
-			local pct = cond / condMax
+        -- Some tooltips use non-InventoryItem objects; ignore those
+        if not instanceof(item, "InventoryItem") then
+            return
+        end
 
-			-- make space for condition bar + bottom padding
-			local barHeight = 6
-			local bottomOffset = 14
-			local extraPadding = 10  -- space under the bar
-			self:setHeight(self.height + barHeight + extraPadding)
+        -- Make sure the methods we need actually exist
+        if not item.getFullType or not item.getCondition or not item.getConditionMax then
+            return
+        end
 
-			local barWidth = self.width - 10
-			local barX = 5
-			local barY = self.height - (barHeight + extraPadding + 4)
+        -- Only handle our rotor item
+        if item:getFullType() ~= "TikitownPower.Rotor" then
+            return
+        end
 
-			self:drawRect(barX, barY, barWidth, barHeight, 0.3, 0, 0, 0)
+        local condMax = item:getConditionMax()
+        if not condMax or condMax <= 0 then
+            return
+        end
 
-			local r, g, b = 0, 1, 0
-			if pct < 0.3 then r, g, b = 1, 0, 0
-			elseif pct < 0.6 then r, g, b = 1, 0.6, 0
-			elseif pct < 0.9 then r, g, b = 1, 1, 0
-			end
+        local cond = item:getCondition() or 0
+        local pct = cond / condMax
 
-			self:drawRect(barX + 1, barY + 1, (barWidth - 2) * pct, barHeight - 2, 1, r, g, b)
-		end
+        local baseHeight = self.height
 
+        local barHeight = 6
+        local bottomOffset = 14      
+        local extraPadding = 10      -- space under the bar
 
+        -- Set final height just once per render using the base height
+        self:setHeight(baseHeight + barHeight + extraPadding)
+
+        local barWidth = self.width - 10
+        local barX = 5
+        local barY = baseHeight - 4  -- draw just under vanilla content
+
+        -- Background of the bar
+        self:drawRect(barX, barY, barWidth, barHeight, 0.3, 0, 0, 0)
+
+        -- Choose bar color by condition %
+        local r, g, b = 0, 1, 0
+        if pct < 0.3 then
+            r, g, b = 1, 0, 0
+        elseif pct < 0.6 then
+            r, g, b = 1, 0.6, 0
+        elseif pct < 0.9 then
+            r, g, b = 1, 1, 0
+        end
+
+        -- Foreground bar
+        local fillWidth = (barWidth - 2) * pct
+        if fillWidth < 0 then fillWidth = 0 end
+
+        self:drawRect(barX + 1, barY + 1, fillWidth, barHeight - 2, 1, r, g, b)
     end
 
     print("[TikitownPower] Rotor tooltip condition hook active.")

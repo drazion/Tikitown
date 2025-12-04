@@ -78,7 +78,7 @@ end
 local function applyDailyWear(data)
     local activated = data.plantActivated == true
     local running   = data.plantRunning   == true
-	local runningWearMultiplier = 1.1
+	local runningWearMultiplier = SandboxVars.TikitownPower.RunningWearMultiplier
 	
     -- Per-part daily condition loss
     for structType, collName in pairs(STRUCT_COLLECTIONS) do
@@ -120,7 +120,7 @@ local function applyDailyWear(data)
     end
 
     -- While grid is running, very low removable parts can self-destruct
-    if running then
+    if running and SandboxVars.TikitownPower.PartsCanBeDestroyed then
         for structType, collName in pairs(STRUCT_COLLECTIONS) do
             local coll = data[collName]
             if type(coll) == "table" then
@@ -156,8 +156,9 @@ function TikitownPower.maybeDailyDegrade()
 	
 	
     local diff = currentDay - data.lastDegradeDay
+	local degradeChance = SandboxVars.TikitownPower.DailyDegradeChance
     for _ = 1, diff do
-		if ZombRand(10) < 2 then
+		if ZombRand(10) < degradeChance then
 			applyDailyWear(data)
 		end
     end

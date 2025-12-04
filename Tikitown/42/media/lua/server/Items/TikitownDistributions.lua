@@ -251,9 +251,11 @@ SuburbsDistributions.possumbilities = {
 	counter = {
 		procedural = true,
 		procList = {
-			{ name = "PocketPawsCans", min = 1, max = 99, weightChance = 30 },
-			{ name = "PocketPawsPlush", min = 1, max = 2, weightChance = 10 },
+			{ name = "OfficeShelfSupplies", min = 1, max = 1, weightChance = 30 },
+			{ name = "StoreCounterBags", min = 1, max = 2, weightChance = 10 },
 			{ name = "StoreCounterBagsFancy", min = 1, max = 1, weightChance = 10 },
+			{ name = "StoreCounterCleaning", min = 1, max = 1, weightChance = 10 },
+			{ name = "GiftStoreCards", min = 1, max = 1, weightChance = 10 },
 			
 		},
 	},
@@ -481,6 +483,62 @@ SuburbsDistributions.rangerroom = {
 	},
 }
 
+SuburbsDistributions.ttprintnship = {
+	shelvesmag = {
+		procedural = true,
+		procList = {
+			{name="PostOfficeMagazines", min=0, max=99, weightChance=75},
+		}
+	},
+	counter = {
+		procedural = true,
+		procList = {
+			{name="PostOfficeSupplies", min=1, max=99, weightChance=30},
+			{name="PostOfficeBoxes", min=1, max=4, weightChance=30},
+		}
+	},
+	shelves = {
+		procedural = true,
+		procList = {
+			{name="OfficeShelfSupplies", min=0, max=99, weightChance=30},
+			{name="CrateOfficeSupplies", min=0, max=99, weightChance=30},
+		}
+	},
+	metal_shelves = {
+		procedural = true,
+		procList = {
+			{name="OfficeShelfSupplies", min=0, max=99, weightChance=30},
+			{name="PostOfficeSupplies", min=1, max=99, weightChance=30},
+			
+		}
+	},
+}
+
+SuburbsDistributions.tt_radio_storage = {
+	shelves = {
+		procedural = true,
+		procList = {
+			{name="ElectronicStoreMagazines", min=0, max=99, weightChance=70},			
+		}
+	},
+	metal_shelves = {
+		procedural = true,
+		procList = {
+			{name="ElectronicStoreLights", min=0, max=99, weightChance=30},
+			{name="ControlRoomCounter", min=1, max=99, weightChance=30},
+			{name="ElectronicStoreMisc", min=1, max=99, weightChance=30},
+			{name="EngineerTools", min=1, max=99, weightChance=30},	
+		}
+	},
+	cardboardbox = {
+		procedural = true,
+		procList = {
+			{ name = "CrateElectronics", min = 0, max = 3, weightChance = 50 },
+			{ name = "ElectronicStoreCases", min = 0, max = 3, weightChance = 50 },
+		},
+	},
+}
+
 SuburbsDistributions.bssolocker = {
 	locker = {
 		procedural = true,
@@ -494,14 +552,14 @@ SuburbsDistributions.bssosheriff = {
 	desk = {
 		procedural = true,
 		procList = {
-			{ name = "PoliceDesk", min = 0, max = 99 },
+			{ name = "PoliceDesk", min = 0, max = 99, weightChance=30 },
 		},
 	},
 	filingcabinet = {
 		procedural = true,
 		procList = {
-			{ name = "PoliceFilingCabinet", min = 0, max = 99 },
-			{ name = "PoliceFileBox", min = 0, max = 99 },
+			{ name = "PoliceFilingCabinet", min = 0, max = 99, weightChance=30 },
+			{ name = "PoliceFileBox", min = 0, max = 99, weightChance=30 },
 		},
 	},
 	shelves = {
