@@ -572,8 +572,8 @@
             <point x="6896.5" y="7253.5"/>
             <point x="6747.5" y="7253.5"/>
             <point x="6724.5" y="7231.5"/>
-            <point x="6725.0" y="7013.5"/>
-            <point x="6654.5" y="6943.0"/>
+            <point x="6724.0" y="6998.0"/>
+            <point x="6663.0" y="6936.5"/>
             <point x="6654.5" y="6928.0"/>
             <point x="6626.5" y="6900.5"/>
         </points>
@@ -662,10 +662,11 @@
         <points>
             <point x="7500.0" y="7704.0"/>
             <point x="7545.0" y="7704.0"/>
-            <point x="7551.5" y="7718.0"/>
-            <point x="7560.0" y="7722.5"/>
+            <point x="7560.5" y="7704.0"/>
             <point x="7564.0" y="7722.5"/>
-            <point x="7564.0" y="7752.0"/>
+            <point x="7564.0" y="7722.5"/>
+            <point x="7562.5" y="7747.5"/>
+            <point x="7500.0" y="7748.0"/>
         </points>
     </street>
     <street name="Turner Bend" width="5">
@@ -713,6 +714,40 @@
             <point x="6737.0" y="7694.5"/>
             <point x="6765.0" y="7722.5"/>
             <point x="6859.0" y="7722.5"/>
+        </points>
+    </street>
+    <street name="Gravel Ridge Rd" width="6">
+        <points>
+            <point x="7278.5" y="7711.0"/>
+            <point x="7278.5" y="7746.5"/>
+            <point x="7405.5" y="7746.5"/>
+            <point x="7414.0" y="7742.0"/>
+            <point x="7418.0" y="7734.5"/>
+            <point x="7418.0" y="7708.0"/>
+        </points>
+    </street>
+    <street name="Railview Spur" width="5">
+        <points>
+            <point x="7460.5" y="7689.5"/>
+            <point x="7472.5" y="7689.5"/>
+            <point x="7474.5" y="7687.5"/>
+            <point x="7474.5" y="7612.5"/>
+            <point x="7472.0" y="7610.0"/>
+            <point x="7462.5" y="7610.0"/>
+        </points>
+    </street>
+    <street name="First Line Dr" width="5">
+        <points>
+            <point x="7425.5" y="7590.0"/>
+            <point x="7425.5" y="7655.0"/>
+            <point x="7416.0" y="7664.0"/>
+            <point x="7416.0" y="7701.5"/>
+        </points>
+    </street>
+    <street name="Memorial Way" width="5">
+        <points>
+            <point x="7435.0" y="7528.0"/>
+            <point x="7490.5" y="7528.0"/>
         </points>
     </street>
 </streets>
