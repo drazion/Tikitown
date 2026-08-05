@@ -1,1 +1,0 @@
---Moved to TikitownLootableMap.lua file
