@@ -558,8 +558,8 @@
     </street>
     <street name="Northwestern Railroad (Muldraugh - Brandenburg)" width="5">
         <points>
-            <point x="7504.0" y="7800.0"/>
-            <point x="7479.5" y="7775.5"/>
+            <point x="7476.0" y="7730.5"/>
+            <point x="7479.5" y="7727.0"/>
             <point x="7479.5" y="7374.0"/>
             <point x="7502.0" y="7352.0"/>
             <point x="7515.0" y="7352.0"/>
@@ -748,6 +748,34 @@
         <points>
             <point x="7435.0" y="7528.0"/>
             <point x="7490.5" y="7528.0"/>
+        </points>
+    </street>
+    <street name="Northwestern Railroad (Muldraugh - Brandenburg)" width="5">
+        <points>
+            <point x="7476.0" y="7730.5"/>
+            <point x="7411.0" y="7795.5"/>
+            <point x="7186.5" y="7796.0"/>
+            <point x="6989.0" y="7795.5"/>
+            <point x="6989.0" y="7762.0"/>
+            <point x="6978.0" y="7751.0"/>
+            <point x="6650.0" y="7750.5"/>
+            <point x="6618.5" y="7720.5"/>
+            <point x="6618.5" y="7573.5"/>
+            <point x="6623.0" y="7568.0"/>
+            <point x="6670.5" y="7568.0"/>
+            <point x="6678.5" y="7560.5"/>
+            <point x="6678.5" y="7520.5"/>
+            <point x="6685.0" y="7514.0"/>
+            <point x="6716.5" y="7514.0"/>
+            <point x="6725.0" y="7506.5"/>
+            <point x="6724.5" y="7232.5"/>
+        </points>
+    </street>
+    <street name="Northwestern Railroad (Muldraugh - Brandenburg)" width="5">
+        <points>
+            <point x="7479.5" y="7727.0"/>
+            <point x="7479.5" y="7775.0"/>
+            <point x="7512.0" y="7807.5"/>
         </points>
     </street>
 </streets>

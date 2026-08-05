@@ -1,0 +1,66 @@
+module Tikitown
+{
+	imports 
+	{
+		Base
+	}
+	
+	item LargePostOfficeBox
+	{
+		DisplayName 			= Large Box (Sealed),
+		DisplayCategory 		= TTMail,
+		ItemType				= base:normal,
+		Weight 					= 4.5,
+		Icon 					= TikitownMailBox,
+		StaticModel 			= TikitownBoxLg,
+		WorldStaticModel 		= TikitownBoxLg,
+		Tooltip 				= Tooltip_item_TTLargePostOfficeBox,
+	}
+	
+	item MedPostOfficeBox
+	{
+		DisplayName 			= Medium Box (Sealed),
+		DisplayCategory 		= TTMail,
+		ItemType				= base:normal,
+		Weight 					= 2,
+		Icon 					= TikitownMailBox,
+		StaticModel 			= TikitownBoxMed,
+		WorldStaticModel 		= TikitownBoxMed,
+		Tooltip 				= Tooltip_item_TTMedPostOfficeBox,
+		
+	}
+	
+	item SmPostOfficeBox
+	{
+		DisplayName 			= Small Box (Sealed),
+		DisplayCategory 		= TTMail,
+		ItemType				= base:normal,
+		Weight 					= 1.25,
+		Icon 					= TikitownMailBox,
+		StaticModel 			= TikitownBoxSm,
+		WorldStaticModel 		= TikitownBoxSm,
+		Tooltip 				= Tooltip_item_TTSmPostOfficeBox,
+		
+	}
+	
+	
+	model TikitownBoxLg
+	{
+		mesh = TTMailBoxLg,
+		texture = WorldItems/TTMailBoxLg,
+	}
+	
+	model TikitownBoxMed
+	{
+		mesh = TTMailBoxLg,
+		texture = WorldItems/TTMailBoxLg,
+		Scale = 0.7,
+	}
+	
+	model TikitownBoxSm
+	{
+		mesh = TTMailBoxLg,
+		texture = WorldItems/TTMailBoxLg,
+		Scale = 0.5,
+	}
+}
